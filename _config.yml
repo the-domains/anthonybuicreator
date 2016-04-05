@@ -1,0 +1,28 @@
+name: Anthony Bui Creator
+favicon: null
+layout_spectrum: 0.7326455283910036
+typography_spectrum: 0.676710715284571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.044452196918427944
+  lightness: 0.5989880200941116
+  saturation: 0.6895022438839078
+  rhythmicContrast: 0.8299775407649577
+purpose: []
